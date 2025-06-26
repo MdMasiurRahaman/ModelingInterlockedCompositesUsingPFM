@@ -17,3 +17,5 @@ https://www.sciencedirect.com/science/article/abs/pii/S235249282302144X
   year={2023},
   publisher={Elsevier}
 }
+
+# Note that one needs to use 4.11.1 version of Gmsh software to generate the mesh. To use recent version of Gmsh, one may need to modify the code as per the requirement.
