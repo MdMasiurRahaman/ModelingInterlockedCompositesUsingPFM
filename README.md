@@ -20,6 +20,3 @@ https://www.sciencedirect.com/science/article/abs/pii/S235249282302144X
 
 # Note that one needs to use 4.11.1 version of Gmsh software to generate the mesh. To use recent version of Gmsh, one may need to modify the code as per the requirement.
 
-Gmsh version 4.13.1 includes several improvements and new features compared to 4.11.1, primarily in its CAD kernel (OpenCASCADE Technology - OCC) and meshing capabilities. Notable additions in 4.13.1 include support for importing and exporting XAO files,
-new options for OCC boolean operations (like OCCBooleanCheckInverted, OCCBooleanGlue, OCCBooleanNonDestructive, OCCBooleanSimplify), and new OCC operations (2D fillets and chamfers, distance, defeature). Additionally, 4.13.1 introduces quasi-transfinite 
-2D meshes with fans and some small API additions. Version 4.13.1 also features a fix for a regression introduced when reading binary .msh files with post-processing data.
